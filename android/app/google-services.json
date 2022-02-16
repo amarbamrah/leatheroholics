@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252302563970",
+    "project_id": "leatheroholics",
+    "storage_bucket": "leatheroholics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252302563970:android:b30fb42bcaeee31313729b",
+        "android_client_info": {
+          "package_name": "com.jontybamrah.leatheroholics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252302563970-dfsl2cqb603e2g4kc01j7f5dirkm2o5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjFmUhApFDqwtaAWUdIBDAsp7i_e_vJwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252302563970-dfsl2cqb603e2g4kc01j7f5dirkm2o5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
